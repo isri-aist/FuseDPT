@@ -1,0 +1,5 @@
+Equi image shape: torch.Size([8, 3, 512, 1024])
+Cube image shape: torch.Size([8, 3, 256, 1536])
+Cube feature innermost shape: torch.Size([8, 512, 8, 48])
+C2E innermost shape: torch.Size([8, 512, 16, 32])
+Equi feature innermost shape: torch.Size([8, 512, 8, 48])
