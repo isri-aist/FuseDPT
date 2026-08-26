@@ -20,3 +20,19 @@ This work is inspired and builds upon:
 - UniFuse (MIT)
 
 DPT architecture of Depth Anything v2 and Some components of the Unifuse such as CEE module are used from their implementation. We thank the original authors for releasing their code.
+
+## Acknowledgements
+
+This work builds upon the following open-source projects:
+
+- **Depth Anything V2** ([GitHub](https://github.com/DepthAnything/Depth-Anything-V2)), licensed under Apache License 2.0.
+- **UniFuse: Unidirectional Fusion for 360° Panoramic Depth Estimation** ([GitHub](https://github.com/alibaba/UniFuse-Unidirectional-Fusion)), licensed under the MIT License.
+
+DPT architecture of Depth Anything v2 and some components of the Unifuse such as CEE module are based on these two works. We thank the original authors for releasing their code.
+
+## License
+
+This project is released under the Apache License 2.0.
+
+Portions of the codebase are derived from the UniFuse project and remain subject to the original MIT License terms and copyright notices where applicable.
+
