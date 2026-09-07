@@ -36,7 +36,7 @@ If you use this code in your research, please cite:
 **Paper:** [FuseDPT](https://link.springer.com/chapter/10.1007/978-3-032-31666-0_23)
 
 ```bibtex
-@inproceedings{paula2026fusedpt,
+@inproceedings{fuseDPT2026,
   author     = {Matheus Paula and Nevrez Imamoglu and Guillaume Caron and Antoine André},
   title      = {FuseDPT: Multi-scale and Multi-Projection Model for Learning Depth in 360 Degree},
   booktitle  = {International Conference on Pattern Recognition (ICPR)},
