@@ -30,6 +30,24 @@ This work builds upon the following open-source projects:
 
 DPT architecture of Depth Anything v2 and some components of the Unifuse such as CEE module are based on these two works. We thank the original authors for releasing their code.
 
+## Citation
+
+If you use this code in your research, please cite:
+**Paper:** [FuseDPT](https://link.springer.com/chapter/10.1007/978-3-032-31666-0_23)
+
+```bibtex
+@inproceedings{paula2026fusedpt,
+  author     = {Matheus Paula and Nevrez Imamoglu and Guillaume Caron and Antoine André},
+  title      = {FuseDPT: Multi-scale and Multi-Projection Model for Learning Depth in 360 Degree},
+  booktitle  = {International Conference on Pattern Recognition (ICPR)},
+  publisher  = {Springer Nature Switzerland},
+  pages      = {344--359},
+  address    = {Lyon, France},
+  doi        = "10.1007/978-3-032-31666-0\{_23}"
+  year       = {2026}
+}
+```
+
 ## License
 
 This project is released under the Apache License 2.0.
