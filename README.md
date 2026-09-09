@@ -9,8 +9,9 @@ Matheus Paula, Nevrez Imamoglu, Guillaume Caron, Antoine André. "*FuseDPT: Mult
 <div align="center">
     <img src="assets/figure_fusedpt_model.png" height="250px" />
 </div>
-
-*Figure 1. Overview of the FuseDPT framework.*
+<p align="center">
+  <em>Figure 1. Overview of the FuseDPT framework.</em>
+</p>
 
 ### Article
 
