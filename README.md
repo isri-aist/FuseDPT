@@ -6,7 +6,7 @@ Matheus Paula, Nevrez Imamoglu, Guillaume Caron, Antoine André. "*FuseDPT: Mult
 
 ### Model Architecture
 
-![assets/figure_fusedpt_model.png
+!./assets/figure_fusedpt_model.png
 
 *Figure 1. Overview of the FuseDPT framework.*
 
