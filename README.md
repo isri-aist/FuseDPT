@@ -4,7 +4,13 @@
 
 Matheus Paula, Nevrez Imamoglu, Guillaume Caron, Antoine André. "*FuseDPT: Multi-scale and Multi-Projection Model for Learning Depth in 360 Degree*," **International Conference on Pattern Recognition (ICPR)**, IAPR, Aug 2026, Lyon, France.
 
-## Article
+### Model Architecture
+
+assets/figure_fusedpt_model.png
+
+*Figure 1. Overview of the FuseDPT framework.*
+
+### Article
 
 https://hal.science/hal-05583714
 
