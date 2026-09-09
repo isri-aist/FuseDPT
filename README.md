@@ -4,7 +4,8 @@
 
 Matheus Paula, Nevrez Imamoglu, Guillaume Caron, Antoine André. "*FuseDPT: Multi-scale and Multi-Projection Model for Learning Depth in 360 Degree*," **International Conference on Pattern Recognition (ICPR)**, IAPR, Aug 2026, Lyon, France.
 
-### Model Architecture
+### FuseDPT Model Architecture
+The proposed FuseDPT builds upon Depth Anything, taking advantage of dense prediction transformer (DPT) model, which has been pre-trained on large scale datasets of perspective images and providing a strong foundation for image representation. However, to address omnidirectional distortions from the DPT representation on ERP images, we incorporate a dual-branch structure inspired by UniFuse model, integrating features from both equirectangular and cubemap (CMP) projections. Unlike UniFuse, which relies solely on Convolutional Neural Networks, our approach combines this dual-projection strategy with a vision transformer architecture. In addition, we propose the use of fusion-in-fusion module in our decoder model. This first effectively integrates features from both CMP and ERP projections at different layers, and secondly also integrates features of these layers as a multi-scale fusion approach enhancing depth estimation performance.
 
 <div align="center">
     <img src="assets/figure_fusedpt_model.png" height="250px" />
