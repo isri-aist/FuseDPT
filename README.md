@@ -20,15 +20,6 @@ Run the already trained model with scripts like run.py
 
 ## Acknowledgements
 
-This work is inspired and builds upon:
-
-- Depth Anything V2 (Apache-2.0)
-- UniFuse (MIT)
-
-DPT architecture of Depth Anything v2 and Some components of the Unifuse such as CEE module are used from their implementation. We thank the original authors for releasing their code.
-
-## Acknowledgements
-
 This work builds upon the following open-source projects:
 
 - **Depth Anything V2** ([GitHub](https://github.com/DepthAnything/Depth-Anything-V2)), licensed under Apache License 2.0.
